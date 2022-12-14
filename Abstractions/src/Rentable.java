@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface Rentable {
+public interface Rentable {
+    int getMinRentDay();
+    double getPricePerDay();
 }

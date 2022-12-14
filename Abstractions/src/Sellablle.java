@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Sellablle {
+public interface Sellablle {
+    double getPrice();
 }
